@@ -1,0 +1,865 @@
+@media (max-width:1600px) {
+.service-img img {
+    width: 100%;
+    margin-top: 46px;
+}
+}
+@media (max-width:1199px){
+.p-s {
+    margin-left: 0px;
+}
+.same_ic {
+    margin-left: 20px;
+    padding-left: 20px;
+}
+.navigation_area .btn {
+    margin-left: 20px;
+}
+.discount-tag {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.discount-tag h3 {
+    font-size: 50px;
+}
+.discount-tag::after {
+    border-top: 12px solid #24bfe8;
+    border-left: 29px solid transparent;
+    top: 79px;
+}
+.banner-title h3 {
+    font-size: 30px;
+    line-height: 32px;
+}
+.banner-form-area h4::after {
+    top: 11px;
+    right: 39px;
+}
+.banner-form-area h4::before {
+    top: 11px;
+    left: 39px;
+}
+.banner-form-area h3 {
+    font-size: 27px;
+}
+.banner-form-area h4 {
+    font-size: 20px;
+}
+.form_body p {
+    font-size: 19px;
+}
+.banner-bottom p {
+    font-size: 14px;
+}
+.banner-bottom span {
+    font-size: 16px;
+}
+.banner-bottom span.yellow {
+    font-size: 16px;
+}
+.banner-content h5 {
+    font-size: 23px;
+}
+.banner-content h4 {
+    font-size: 37px;
+}
+.banner-content ul li {
+    font-size: 14px;
+}
+.banner-form-area {
+    padding: 40px 40px 30px;
+}
+.banner-cont-bg::before {
+    right: -40px;
+    transform: scale(0.77);
+}
+.sec-heading2 h2 {
+    font-size: 27px;
+}
+.more-than h6 {
+    font-size: 15px;
+}
+.more-than h3 {
+    font-size: 26px;
+}
+.counter-area ul li h4 {
+    font-size: 12px;
+}
+.counter-area ul li {
+    padding: 0px 8px;
+}
+.counter {
+    font-size: 20px;
+}
+.service-cont h6 {
+    font-size: 16px;
+}
+.service-cont h2 {
+    font-size: 36px;
+}
+.service-cont p {
+    font-size: 14px;
+    line-height: 28px;
+}
+.features-cont ul li {
+    margin: 0px 8px;
+}
+.feature-text p {
+    font-size: 12px;
+}
+.feature-heading::before {
+   
+    right: -25px;
+}
+.pkg-top::before {
+    left: 46px;
+}
+.price-area {
+    padding: 20px 48px 0px 57px;
+}
+.pkg-title h3 {
+    font-size: 20px;
+}
+.testimonialSlider .slick-arrow .arrow {
+    width: 26px;
+    height: 26px;
+    background: url('../images/arrow.png')no-repeat;
+    display: none;
+}
+.testimonialSlider li .quotedBy p {
+    font-size: 12px;
+}
+.testimonialSlider li .quotedBy h5 span {
+    font-size: 15px;
+}
+.testimonialSlider li .quotedBy h5 {
+    font-size: 11px;
+}
+.copyright-text h3 {
+    font-size: 13px;
+}
+.copyright-text ul li a {
+    font-size: 13px;
+}
+.disclaimer-text h3 {
+    font-size: 13px;
+}
+.disclaimer-text p {
+    font-size: 13px;
+}
+.testimonial-headings h5 {
+    font-size: 23px;
+    margin-bottom: 10px;
+}
+.testimonial-headings h3 {
+    font-size: 39px;
+}
+}
+
+
+@media (max-width:991px) {
+.p-s {
+    display: none;
+}
+.discount-tag::after {
+    top: 57px;
+}
+.banner-title h3 {
+    font-size: 23px;
+    line-height: 25px;
+}
+.discount-tag h3 sup {
+    font-size: 14px;
+    top: -13px;
+    left: 6px;
+}
+.discount-tag h3 sub {
+    font-size: 16px;
+    top: 1px;
+    left: -12px;
+}
+.discount-tag h3 {
+    font-size: 35px;
+}
+.banner-content {
+    margin-top: 20px;
+}
+.banner-content h5 {
+    font-size: 18px;
+}
+.banner-content h4 {
+    font-size: 27px;
+}
+.banner-content ul {
+    margin-top: 8px;
+}
+.banner-content ul li {
+    font-size: 10px;
+}
+.banner-content img {
+    width: 50%;
+}
+.banner-form-area h4 {
+    font-size: 15px;
+}
+.banner-content img {
+    width: 60%;
+}
+.banner-cont-bg::before {
+    right: -67px;
+    transform: scale(0.52);
+    top: 43px;
+}
+.banner-form-area h4::before {
+    top: 9px;
+    left: 6px;
+}
+.banner-form-area h4::after {
+    top: 9px;
+    right: 6px;
+}
+.banner-form-area h3 {
+    font-size: 18px;
+}
+.form_body .form-group span {
+    height: 38px;
+    line-height: 36px;
+}
+.form_body .form-group span img {
+    width: 15px;
+}
+.form_body .form-control {
+    height: 40px;
+    font-size: 12px;
+}
+.form_body .form-group {
+    position: relative;
+    margin-bottom: 15px;
+}
+.btn_submit {
+    height: 37px;
+    margin-top: 10px;
+    font-size: 13px;
+}
+.form_body p {
+    font-size: 12px;
+}
+.banner-bottom p {
+    font-size: 11px;
+}
+.banner-bottom span {
+    font-size: 12px;
+}
+.banner-bottom span.yellow {
+    font-size: 12px;
+}
+.banner-bottom {
+    padding: 10px 0px;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
+.sec-heading2 h2 {
+    font-size: 21px;
+}
+.more-than h6 {
+    font-size: 13px;
+}
+.more-than h3 {
+    font-size: 18px;
+}
+.more-than p {
+    font-size: 11px;
+}
+.counter {
+    font-size: 16px;
+}
+.counter-area ul li sup {
+    font-size: 16px;
+}
+.counter-area ul li {
+    padding: 0px 4px;
+}
+.counter-area ul li {
+    padding: 0px 2px;
+}
+.counter-area ul li h4 {
+    font-size: 10px;
+}
+.service-cont h6 {
+    font-size: 15px;
+}
+.service-cont h2 {
+    font-size: 27px;
+}
+.service-cont p {
+    font-size: 12px;
+    line-height: 19px;
+    margin-top: 8px;
+}
+.service-btn i {
+    font-size: 12px;
+    padding: 6px 8px;
+}
+.service-btn::before {
+    right: 17px;
+    top: 18px;
+}
+.service-btn {
+    padding: 6px 0px 10px 19px;
+}
+.feature-img img {
+    width: 45px;
+}
+.feature-text p {
+    font-size: 10px;
+}
+.feature-img img {
+    width: 40px;
+}
+.feature-text p {
+    font-size: 10px;
+    margin-left: 6px;
+}
+.features-cont ul li {
+    margin: 0px 4px;
+}
+.feature-heading h4 {
+    font-size: 17px;
+}
+.feature-heading::before {
+    border-top: 37px solid transparent;
+    border-bottom: 37px solid transparent;
+    right: -30px;
+}
+.pkg-top::before {
+    left: 15px;
+}
+.price-area {
+    padding: 20px 16px 0px 23px;
+}
+.pkg-title h3 {
+    font-size: 17px;
+}
+.offer-txt h5 {
+    font-size: 16px;
+}
+.pricing-btns {
+    margin-top: 28px;
+}
+.pkg-btn button {
+    font-size: 15px;
+    height: 42px;
+    width: 180px;
+}
+.testimonial-headings h5 {
+    font-size: 20px;
+}
+.testimonial-headings h3 {
+    font-size: 29px;
+}
+.testi-btn {
+    height: 43px;
+    width: 293px;
+    font-size: 15px;
+}
+.testimonialSlider li .quotedBy p {
+    font-size: 14px;
+}
+.testimonialSlider li .quotedBy h5 span {
+    font-size: 16px;
+}
+.testimonialSlider li .quotedBy h5 {
+    font-size: 12px;
+}
+.brand-logo img {
+    max-width: 100%;
+}
+.copyright-text h3 {
+    font-size: 9px;
+}
+.copyright-text ul li a {
+    font-size: 11px;
+}
+.disclaimer-text h3 {
+    font-size: 12px;
+}
+.disclaimer-text p {
+    font-size: 11px;
+}
+}
+
+@media (max-width:767px) {
+    .entry-box {
+        width: 100% !important;
+    }
+.navigation_area .btn {
+    display: none;
+}
+.discount-tag h3 {
+    font-size: 50px;
+}
+.discount-tag h3 sup {
+    font-size: 27px;
+    top: -26px;
+    left: 6px;
+}
+.discount-tag h3 sub {
+    font-size: 25px;
+    top: 1px;
+    left: -18px;
+}
+.discount-tag::after {
+    top: 79px;
+}
+.banner-title h3 {
+    font-size: 30px;
+    line-height: 32px;
+}
+.banner-content h5 {
+    font-size: 20px;
+}
+.banner-content h4 {
+    font-size: 29px;
+}
+.banner-content ul li {
+    font-size: 14px;
+}
+.banner-cont-bg::before {
+    right: -36px;
+    transform: scale(0.65);
+    top: 61px;
+}
+.pad-r {
+    padding-right: 15px;
+}
+.pad-l {
+    padding-left: 15px;
+}
+.banner-form-area h4 {
+    font-size: 21px;
+}
+.banner-form-area h4::after {
+    top: 11px;
+    right: 90px;
+}
+.banner-form-area h4::before {
+    top: 11px;
+    left: 90px;
+}
+.form_body .form-control {
+    font-size: 14px;
+}
+.form_body .form-group span img {
+    width: 18px;
+}
+.btn_submit {
+    height: 40px;
+    font-size: 15px;
+}
+.form_body p {
+    font-size: 20px;
+}
+.banner-form-area h3 {
+    font-size: 26px;
+}
+.banner-bottom p {
+    font-size: 13px;
+}
+.banner-bottom span {
+    font-size: 14px;
+}
+.banner-bottom span.yellow {
+    font-size: 14px;
+}
+.sec-heading2 h2 {
+    font-size: 24px;
+}
+.more-than {
+    padding-bottom: 20px;
+}
+.more-than h6 {
+    font-size: 16px;
+}
+.more-than h3 {
+    font-size: 27px;
+}
+.more-than p {
+    font-size: 12px;
+}
+.counter-area {
+    padding-top: 20px;
+}
+.counter {
+    font-size: 18px;
+}
+.service-cont p {
+    font-size: 14px;
+    line-height: 27px;
+    margin-top: 10px;
+}
+.service-img img {
+    display: none;
+}
+.features::before {
+    display: none;
+}
+.feature-heading {
+    background-color: #ffffff02;
+    margin-right: 0px;
+    justify-content: center;
+}
+.feature-heading::before {
+    display: none;
+}
+.features {
+    padding: 20px 0px;
+}
+.feature-heading h4 {
+    font-size: 21px;
+    font-weight: 600;
+    margin-bottom: 12px;
+    color: #fff;
+}
+.feature-text p {
+    font-size: 15px;
+    margin-left: 12px;
+}
+.features-cont ul li {
+    margin: 0px 0px;
+    margin-bottom: 20px;
+}
+.pkg-title h3 {
+    font-size: 31px;
+}
+.pkg-title {
+    padding: 10px 0px;
+}
+.offer-txt h5 {
+    font-size: 20px;
+}
+.pkg-btn button {
+    font-size: 17px;
+    height: 47px;
+    width: 193px;
+}
+.chat-btn a h4 span {
+    font-size: 24px;
+}
+.chat-btn a h4 {
+    font-size: 14px;
+}
+.testimonial-headings h5 {
+    font-size: 22px;
+}
+.testimonial-headings h3 {
+    font-size: 31px;
+}
+.testi-btn {
+    height: 45px;
+    width: 305px;
+    font-size: 16px;
+}
+.testimonial-headings {
+    margin-bottom: 40px;
+}
+.testimonialSlider li .quotedBy {
+    height: 190px;
+}
+.copyright-text h3 {
+    font-size: 15px;
+}
+.copyright-text ul li a {
+    font-size: 15px;
+}
+.copyright-img img {
+    width: 354px;
+}
+.copyright-img img {
+    width: 354px;
+    margin-top: 15px;
+}
+.more-than {
+    padding-bottom: 20px;
+    border-bottom: 1px solid #00000021;
+    border-right: 0px solid #00000021;
+}
+}
+@media (max-width: 575px) {
+.discount-tag h3 sub {
+    font-size: 19px;
+    top: 0px;
+    left: -12px;
+}
+.banner-cont-bg::before {
+    display: none;
+}
+.discount-tag h3 {
+    font-size: 48px;
+}
+.discount-tag h3 sup {
+    font-size: 22px;
+    top: -21px;
+    left: 9px;
+}
+.discount-tag h3 sub {
+    font-size: 19px;
+    top: 0px;
+    left: -15px;
+}
+.discount-tag::after {
+    top: 75px;
+}
+.banner-form-area h4::before {
+    top: 13px;
+    left: 40px;
+}
+
+.banner-form-area h4::after {
+
+    top: 13px;
+    right: 40px;
+
+}
+.form_body p {
+    font-size: 17px;
+}
+.sec-heading2 h2 {
+    font-size: 21px;
+}
+.sec-heading h2 {
+    font-size: 36px;
+}
+.price-area {
+    padding: 20px 36px 0px 22px;
+}
+.pkg-title h3 {
+    font-size: 22px;
+}
+.pkg-title h3 {
+    font-size: 24px;
+}
+.price-area {
+    padding: 20px 24px 0px 18px;
+}
+.pkg-title h3 {
+    font-size: 24px;
+}
+.pkg-title {
+    padding: 20px 0px;
+}
+
+.counter {
+    font-size: 23px;
+}
+.counter-area ul li h4 {
+    font-size: 14px;
+}
+.counter-area ul {
+    text-align: center;
+}
+.pkg-top {
+    height: 100%;
+}
+.pkg-top::before {
+    display: none;
+}
+.pkg-pricing {
+    height: 100%;
+}
+.pkg-bottom {
+    padding: 22px 22px 40px;
+}
+.discount-price h3 {
+    color: #fff;
+}
+.sale-price h4 span {
+    color: #fff;
+}
+.sale-price h4 {
+    color: #ffb7c3;
+    transition: 0.5s;
+}
+.offer-txt h5 {
+    color: #fff;
+}
+.offer-txt h5 span {
+    color: #fff;
+}
+.sale-price {
+    border-bottom: 1px solid #fff;
+}
+.price-area {
+    padding: 20px 0px;
+}
+.offer-txt {
+    padding-top: 10px;
+}
+.pkg-title {
+    padding: 0px 0px 10px;
+}
+.pkg-top .row {
+    align-items: center;
+}
+.offer-txt h5 {
+    font-size: 16px;
+}
+.pkg-title h3 {
+    font-size: 18px;
+}
+.sale-price h4 {
+    font-size: 10px;
+}
+.sale-price h4 span {
+    font-size: 20px;
+}
+.discount-price h3 {
+    color: #fff;
+
+}
+.discount-price h3 {
+    font-size: 27px;
+}
+.packages_carousel .owl-nav{
+    display: none;
+}
+}
+@media (max-width:480px) {
+.navbar-brand img {
+    width: 160px;
+}
+.same_ic i {
+    font-size: 22px;
+}
+.same_ic img {
+    width: 30px;
+}
+.same_ic {
+    margin-left: 15px;
+    padding-left: 15px;
+}
+.discount-tag h3 sub {
+    font-size: 15px;
+    top: 0px;
+    left: -12px;
+}
+.discount-tag {
+    padding-left: 10px;
+}
+.discount-tag h3 {
+    font-size: 33px;
+}
+.discount-tag h3 sup {
+    font-size: 14px;
+    top: -13px;
+    left: 6px;
+}
+.banner-cont-bg::before {
+    display: none;
+}
+.discount-tag::after {
+    top: 55px;
+}
+.banner-title h3 {
+    font-size: 14px;
+    line-height: 23px;
+}
+.banner-content h4 {
+    font-size: 22px;
+}
+.banner-content h5 {
+    font-size: 16px;
+}
+.banner-content ul li {
+    font-size: 13px;
+}
+.banner-content img {
+    width: 100%;
+}
+.banner-form-area h4 {
+    font-size: 14px;
+}
+.banner-form-area h4::before {
+    top: 8px;
+    left: 16px;
+}
+.banner-form-area h4::after {
+    top: 8px;
+    right: 16px;
+}
+.banner-form-area h3 {
+    font-size: 19px;
+}
+.banner-form-area {
+    padding: 25px 27px 25px;
+}
+.form_body p {
+    font-size: 14px;
+}
+.banner-bottom p {
+    font-size: 11px;
+}
+.banner-bottom span {
+    font-size: 12px;
+}
+.banner-bottom span.yellow {
+    font-size: 12px;
+}
+.sec-heading2 h2 {
+    font-size: 16px;
+}
+.projects {
+    padding: 30px 0px;
+}
+.counter-area ul {
+    text-align: center;
+}
+.testimonial-headings h3 {
+    font-size: 27px;
+}
+.feature-img img {
+    width: 40px !important;
+}
+.feature-text p {
+    font-size: 12px;
+    margin-left: 12px;
+}
+.sec-heading h2 {
+    font-size: 27px;
+}
+.port-btn {
+    width: 126px;
+    height: 41px;
+}
+.testi-btn {
+    height: 41px;
+    width: 250px;
+    font-size: 14px;
+}
+.testimonialSlider li .quotedBy {
+    height: 260px;
+}
+.copyright-img img {
+    width: 100%;
+}
+.pkg-btn button {
+    font-size: 15px;
+    height: 36px;
+    width: 135px;
+}
+.chat-btn a h4 i {
+    font-size: 12px;
+    margin-left: 3px;
+}
+.chat-btn a h4 {
+    font-size: 11px;
+}
+.chat-btn a h4 span {
+    font-size: 18px;
+}
+.listing li {
+    font-size: 12px;
+}
+.packages_carousel .owl-nav{
+    display: none;
+}
+}
